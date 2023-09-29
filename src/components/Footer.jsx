@@ -19,7 +19,7 @@ const Footer = () => {
           <span>+234-810-638-4968</span>
           <span>
           +234-906-032-3201</span>
-          <span>fortallianceltd@gmail.com</span>
+          <span>info@fortallianceltd.com</span>
           <span>instagram: @fort_alliance</span>
         </div>
         <div className="footer-section-columns">
